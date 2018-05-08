@@ -1,4 +1,4 @@
-##Analysis of Ames, Iowa Housing dataset 
+## Analysis of Ames, Iowa Housing dataset 
 
 This dataset is described in https://ww2.amstat.org/publications/jse/v19n3/decock.pdf
 
